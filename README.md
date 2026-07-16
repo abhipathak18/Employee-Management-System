@@ -71,13 +71,7 @@ npx serve .
 ```
 
 ### Live Demo
-
-You can also deploy this repo for free with GitHub Pages:
-
-1. Push your code to GitHub (see below).
-2. In the repo, go to **Settings → Pages**.
-3. Under **Source**, select the `main` branch and `/ (root)` folder, then save.
-4. Your site will be live at `https://abhipathak18.github.io/Employee-Management-System/`.
+Site is live at `https://employee-management-system-seven-sable.vercel.app/`.
 
 ## How to Use
 
